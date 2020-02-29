@@ -1,0 +1,20 @@
+My associate id:
+845025
+Other team members:
+845027,845110,845111.
+Team lead:
+845027
+My Role in team:
+1. I've developed home page by using some bootstrap classes
+My development files:
+1. index.html
+2.Styles.css
+I was strong in:
+1. HTML
+2. Css
+3. Some Validations
+I was weak in:
+1.Bootsrap
+
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
